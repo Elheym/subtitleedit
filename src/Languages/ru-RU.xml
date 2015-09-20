@@ -116,7 +116,7 @@ https://github.com/SubtitleEdit/subtitleedit
     <GeneratingSpectrogram>Создание спектрограммы...</GeneratingSpectrogram>
     <ExtractingSeconds>Извлечение аудио: {0:0.0} с</ExtractingSeconds>
     <ExtractingMinutes>Извлечение аудио: {0}.{1:00} мин</ExtractingMinutes>
-    <WaveFileNotFound>Извлечённая форма сигла не была найдена!
+    <WaveFileNotFound>Извлечённая форма сигнала не была найдена!
 Для этого требуется VLC media player 1.1.x или новее ({0}-bit).
 
 Командная строка: {1} {2}</WaveFileNotFound>
@@ -601,7 +601,7 @@ https://github.com/SubtitleEdit/subtitleedit
     <XUnneededPeriodsRemoved>Удалено лишних точек: {0}</XUnneededPeriodsRemoved>
     <FixMissingSpace>Добавить недостающие пробелы</FixMissingSpace>
     <XMissingSpacesAdded>Добавлено пробелов: {0}</XMissingSpacesAdded>
-    <FixUppercaseIInsideLowercaseWord>Исправить заглавные буквы "i" внутри слов</FixUppercaseIInsideLowercaseWord>
+    <FixUppercaseIInsideLowercaseAboutWord>Исправить заглавные буквы "i" внутри слов</FixUppercaseIInsideLowercaseWord>
     <XPeriodsAdded>Добавлено точек: {0}</XPeriodsAdded>
     <FixMissingPeriodAtEndOfLine>Добавить недостающие точки в конце строк</FixMissingPeriodAtEndOfLine>
     <XDoubleApostrophesFixed>Исправлено двойных апострофов: {0}</XDoubleApostrophesFixed>
@@ -1123,7 +1123,7 @@ https://github.com/SubtitleEdit/subtitleedit
     <SubtitleNotAppended>Субтитры НЕ добавлены!</SubtitleNotAppended>
     <GoogleTranslate>Переводчик Google</GoogleTranslate>
     <MicrosoftTranslate>Переводчик Microsoft</MicrosoftTranslate>
-    <BeforeGoogleTranslation>Перед переводом в Google</BeforeGoogleTranslation>
+    <BeforeGoogleTranslation>Перед переводом в Google</BeforeGoogleTranslatSplitLineAtCursorPositionion>
     <SelectedLinesTranslated>Выбранные строки переведены</SelectedLinesTranslated>
     <SubtitleTranslated>Субтитры переведены</SubtitleTranslated>
     <TranslateSwedishToDanish>Перевести загруженные субтитры со Шведского на Датский</TranslateSwedishToDanish>
